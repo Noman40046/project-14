@@ -1,0 +1,72 @@
+@media(max-width:768px)
+{
+    .card
+    {
+      width: 100%;
+      margin: auto;
+    }
+
+
+}
+
+/* page-2 start------------------ */
+
+@media only screen and (max-width: 767px) 
+{
+ .main-div
+ {
+  display: flex;
+ }
+ .higher-edu
+{
+font-size: 10px;
+padding-left: 50px;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.govt-add
+{
+  font-size: 15px;
+  padding-left: 50px;
+}
+
+.container-fluid
+{
+  padding-left: 70px;
+}
+}
+  
+
+
+@media only screen and (max-width: 991px) 
+{
+ .main-div
+ {
+  display: flex;
+ }
+ .higher-edu
+{
+font-size: 10px;
+padding-left: 50px;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.govt-add
+{
+  font-size: 15px;
+  padding-left: 50px;
+}
+
+.container-fluid
+{
+  padding-left: 130px;
+}
+
+}
+
+
+
+
+/* page-2 start------------------ */
+
+

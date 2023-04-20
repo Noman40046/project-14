@@ -1,0 +1,55 @@
+body {
+  background-color: rgba(183, 214, 183, 0.3) !important;
+  font-family: "Hind Siliguri", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+/* FIRST BOX-------------------------------- */
+.first-box-text1 {
+  text-decoration: none;
+  color: #294f70;
+  font-weight:400;
+  font-size: 18px;
+}
+.first-box-text1:hover {
+  text-decoration: underline;
+  color: #294f70;
+}
+.first-box-text2 {
+  text-decoration: none;
+  color: #294f70;
+  font-weight:400;
+  font-size: 18px;
+}
+.first-box-text2:hover {
+  text-decoration: underline;
+  color: #294f70;
+}
+/* SECOND BOX-------------------------------- */
+.second-box-text1 {
+  text-decoration: none;
+  color: #294f70;
+  font-weight:400;
+  font-size: 18px;
+}
+.second-box-text2 {
+  text-decoration: none;
+  color: #294f70;
+  font-weight:400;
+  font-size: 18px;
+}
+.second-box-text1:hover {
+  text-decoration: underline;
+  color: #294f70;
+}
+.second-box-text2:hover {
+  text-decoration: underline;
+  color: #294f70;
+}
+.card
+{
+  width: 25%;
+  margin: auto;
+}
+
+

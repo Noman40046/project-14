@@ -1,0 +1,84 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: "Baloo Da 2",cursive;
+    overflow-x: hidden;
+}
+.navbar-nav
+{
+    display: flex;
+    margin-left:50px;
+    list-style-type: none;
+    margin-bottom: 3px;
+   
+}
+.nav-item
+{
+    margin-right:20px;
+    
+}
+
+.nav-item a
+{
+    text-decoration: none;
+    font-size: 14px;
+    color: #3d4e5e;
+    font-weight:650;
+    
+}
+.nav-item a:hover
+{
+    text-decoration:underline;
+    
+    
+}
+.navigation-container
+{
+    box-shadow: 0 4px 2px -2px grey;
+}
+
+
+.button:hover
+{
+    background-color: #dedcdc;
+}
+.click
+{
+    text-decoration:none;
+}
+.click:hover
+{
+text-decoration: underline;
+}
+.login:hover
+{
+background-color: rgb(201, 200, 200);
+}
+
+
+
+
+@media(max-width:576px)
+{
+    .footer
+    {
+      padding-left: 100px;
+      padding-right: 100px;
+    }
+
+
+}
+
+@media(max-width:767px)
+{
+    .footer
+    {
+      padding-left: 180px;
+      padding-right: 180px;
+    }
+
+
+}
+
+
